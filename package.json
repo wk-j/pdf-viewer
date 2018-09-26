@@ -1,0 +1,13 @@
+{
+    "name": "webpack-pdf.js-example",
+    "version": "0.1.0",
+    "scripts": {
+        "build": "webpack",
+        "start": "dotnet serve"
+    },
+    "devDependencies": {
+        "pdfjs-dist": "^2.0.489",
+        "webpack": "^4.20.2",
+        "webpack-cli": "^3.1.1"
+    }
+}
